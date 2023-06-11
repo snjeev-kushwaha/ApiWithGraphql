@@ -1,5 +1,4 @@
 const { GraphQLString, GraphQLID } = require('graphql')
-
 const { UserType } = require('./types')
 const User = require('../model/userModel')
 
