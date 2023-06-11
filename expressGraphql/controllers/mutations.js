@@ -187,7 +187,7 @@ const deleteComment = {
             throw new Error("No post with the given ID found for the author")
         }
 
-        return "Post deleted"
+        return "Comment deleted"
     },
 }
 
